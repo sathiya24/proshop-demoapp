@@ -1,0 +1,65 @@
+const products = [
+    {
+        name: 'AirPods Wireless Bluetooth Headphones',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Apple',
+        category: 'Electronics',
+        price: '12',
+        countInStock: '10',
+        rating: 5,
+        numReviews: 1,
+    },
+    {
+        name: 'Realme11C Mobiles',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Realme',
+        category: 'Electronics',
+        price: '37',
+        countInStock: '8',
+        rating: 4.5,
+        numReviews: 12,
+    },
+    {
+        name: 'Redme 6R Mobiles',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Realme',
+        category: 'Electronics',
+        price: '28',
+        countInStock: '10',
+        rating: 4.3,
+        numReviews: 12,
+    },
+    {
+        name: 'Oneplus Nord',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Oneplus',
+        category: 'Electronics',
+        price: '28',
+        countInStock: '10',
+        rating: 4.8,
+        numReviews: 100,
+    },
+    {
+        name: 'Oneplus Bluetooth Headphone',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Oneplus',
+        category: 'Electronics',
+        price: '50',
+        countInStock: '10',
+        rating: 3.5,
+        numReviews: 97,
+    },
+    {
+        name: 'Samsung 14F',
+        description: 'Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book',
+        brand: 'Samsung',
+        category: 'Electronics',
+        price: '17',
+        countInStock: '0',
+        rating: 3.8,
+        numReviews: 567,
+    }
+
+]
+
+export default products
